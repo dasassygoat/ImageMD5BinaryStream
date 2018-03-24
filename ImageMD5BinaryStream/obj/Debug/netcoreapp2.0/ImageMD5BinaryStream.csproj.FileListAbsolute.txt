@@ -1,0 +1,10 @@
+/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/bin/Debug/netcoreapp2.0/ImageMD5BinaryStream.deps.json
+/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/bin/Debug/netcoreapp2.0/ImageMD5BinaryStream.runtimeconfig.json
+/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/bin/Debug/netcoreapp2.0/ImageMD5BinaryStream.runtimeconfig.dev.json
+/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/bin/Debug/netcoreapp2.0/ImageMD5BinaryStream.dll
+/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/bin/Debug/netcoreapp2.0/ImageMD5BinaryStream.pdb
+/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/obj/Debug/netcoreapp2.0/ImageMD5BinaryStream.csproj.CoreCompileInputs.cache
+/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/obj/Debug/netcoreapp2.0/ImageMD5BinaryStream.AssemblyInfoInputs.cache
+/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/obj/Debug/netcoreapp2.0/ImageMD5BinaryStream.AssemblyInfo.cs
+/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/obj/Debug/netcoreapp2.0/ImageMD5BinaryStream.dll
+/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/obj/Debug/netcoreapp2.0/ImageMD5BinaryStream.pdb
