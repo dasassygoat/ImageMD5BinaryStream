@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b163268-4417-45c9-a532-c2a7d3b12a5b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ImageMD5BinaryStream/.idea/contentModel.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ImageMD5BinaryStream/.idea/indexLayout.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ImageMD5BinaryStream/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ImageMD5BinaryStream/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ImageMD5BinaryStream/riderModule.iml" />
+      <change beforePath="$PROJECT_DIR$/ImageMD5BinaryStream/Program.cs" afterPath="$PROJECT_DIR$/ImageMD5BinaryStream/Program.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,17 +16,16 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ImageMD5BinaryStream/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="44" column="50" lean-forward="true" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
+            <state relative-caret-position="120">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding>
-                <marker date="1521860213052" expanded="true" signature="6:103" ph="..." />
-                <marker date="1521860213052" expanded="true" signature="135:1784" ph="{...}" />
-                <marker date="1521860213052" expanded="true" signature="155:1782" ph="{...}" />
-                <marker date="1521860213052" expanded="true" signature="201:1776" ph="{...}" />
-                <marker date="1521860213052" expanded="true" signature="741:1753" ph="{...}" />
-                <marker date="1521860213052" expanded="true" signature="1052:1143" ph="{...}" />
-                <marker date="1521860213052" expanded="true" signature="1272:1365" ph="{...}" />
-                <marker date="1521860213052" expanded="true" signature="1494:1587" ph="{...}" />
+                <marker date="1522122899182" expanded="true" signature="6:85" ph="..." />
+                <marker date="1522122899182" expanded="true" signature="117:1334" ph="{...}" />
+                <marker date="1522122899182" expanded="true" signature="137:1332" ph="{...}" />
+                <marker date="1522122899182" expanded="true" signature="183:859" ph="{...}" />
+                <marker date="1522122899182" expanded="true" signature="913:1326" ph="{...}" />
+                <marker date="1522122899182" expanded="true" signature="1035:1281" ph="{...}" />
+                <marker date="1522122899182" expanded="true" signature="1176:1267" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -57,11 +52,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="41" />
-    <option name="y" value="114" />
-    <option name="width" value="1023" />
-    <option name="height" value="789" />
+    <option name="y" value="25" />
+    <option name="width" value="1879" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -144,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521857496629</updated>
-      <workItem from="1521857498018" duration="2783000" />
+      <workItem from="1521857498018" duration="3681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2783000" />
+    <option name="totallyTimeSpent" value="3681000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -161,19 +156,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="114" width="1023" height="789" extended-state="0" />
+    <frame x="41" y="25" width="1879" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23484848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23132037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12329514" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -195,20 +191,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/ImageMD5BinaryStream/Program.cs</url>
-          <line>22</line>
-          <properties documentPath="$PROJECT_DIR$/ImageMD5BinaryStream/Program.cs">
-            <startOffsets>
-              <startOffset value="773" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="811" />
-            </endOffsets>
-          </properties>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
@@ -216,17 +198,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ImageMD5BinaryStream/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="44" column="50" lean-forward="true" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
-            <marker date="1521860213052" expanded="true" signature="6:103" ph="..." />
-            <marker date="1521860213052" expanded="true" signature="135:1784" ph="{...}" />
-            <marker date="1521860213052" expanded="true" signature="155:1782" ph="{...}" />
-            <marker date="1521860213052" expanded="true" signature="201:1776" ph="{...}" />
-            <marker date="1521860213052" expanded="true" signature="741:1753" ph="{...}" />
-            <marker date="1521860213052" expanded="true" signature="1052:1143" ph="{...}" />
-            <marker date="1521860213052" expanded="true" signature="1272:1365" ph="{...}" />
-            <marker date="1521860213052" expanded="true" signature="1494:1587" ph="{...}" />
+            <marker date="1522122899182" expanded="true" signature="6:85" ph="..." />
+            <marker date="1522122899182" expanded="true" signature="117:1334" ph="{...}" />
+            <marker date="1522122899182" expanded="true" signature="137:1332" ph="{...}" />
+            <marker date="1522122899182" expanded="true" signature="183:859" ph="{...}" />
+            <marker date="1522122899182" expanded="true" signature="913:1326" ph="{...}" />
+            <marker date="1522122899182" expanded="true" signature="1035:1281" ph="{...}" />
+            <marker date="1522122899182" expanded="true" signature="1176:1267" ph="{...}" />
           </folding>
         </state>
       </provider>
