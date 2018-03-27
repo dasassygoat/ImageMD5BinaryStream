@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7b163268-4417-45c9-a532-c2a7d3b12a5b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/ImageMD5BinaryStream/Program.cs" afterPath="$PROJECT_DIR$/ImageMD5BinaryStream/Program.cs" />
+      <change beforePath="$PROJECT_DIR$/ImageMD5BinaryStream/bin/Debug/netcoreapp2.0/ImageMD5BinaryStream.dll" afterPath="$PROJECT_DIR$/ImageMD5BinaryStream/bin/Debug/netcoreapp2.0/ImageMD5BinaryStream.dll" />
+      <change beforePath="$PROJECT_DIR$/ImageMD5BinaryStream/bin/Debug/netcoreapp2.0/ImageMD5BinaryStream.pdb" afterPath="$PROJECT_DIR$/ImageMD5BinaryStream/bin/Debug/netcoreapp2.0/ImageMD5BinaryStream.pdb" />
+      <change beforePath="$PROJECT_DIR$/ImageMD5BinaryStream/obj/Debug/netcoreapp2.0/ImageMD5BinaryStream.dll" afterPath="$PROJECT_DIR$/ImageMD5BinaryStream/obj/Debug/netcoreapp2.0/ImageMD5BinaryStream.dll" />
+      <change beforePath="$PROJECT_DIR$/ImageMD5BinaryStream/obj/Debug/netcoreapp2.0/ImageMD5BinaryStream.pdb" afterPath="$PROJECT_DIR$/ImageMD5BinaryStream/obj/Debug/netcoreapp2.0/ImageMD5BinaryStream.pdb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,18 +20,19 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ImageMD5BinaryStream/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+            <state relative-caret-position="125">
+              <caret line="17" column="112" lean-forward="false" selection-start-line="17" selection-start-column="111" selection-end-line="17" selection-end-column="112" />
               <folding>
-                <marker date="1522123461033" expanded="true" signature="6:119" ph="..." />
-                <marker date="1522123461033" expanded="true" signature="151:1455" ph="{...}" />
-                <marker date="1522123461033" expanded="true" signature="171:1453" ph="{...}" />
-                <marker date="1522123461033" expanded="true" signature="217:888" ph="{...}" />
-                <marker date="1522123461033" expanded="true" signature="773:852" ph="{...}" />
-                <marker date="1522123461033" expanded="true" signature="940:1447" ph="{...}" />
-                <marker date="1522123461033" expanded="true" signature="1065:1402" ph="{...}" />
-                <marker date="1522123461033" expanded="true" signature="1130:1388" ph="{...}" />
-                <marker date="1522123461033" expanded="true" signature="1267:1370" ph="{...}" />
+                <marker date="1522124911312" expanded="true" signature="6:206" ph="..." />
+                <marker date="1522124911312" expanded="true" signature="238:1806" ph="{...}" />
+                <marker date="1522124911312" expanded="true" signature="265:1804" ph="{...}" />
+                <marker date="1522124911312" expanded="true" signature="329:1076" ph="{...}" />
+                <marker date="1522124911312" expanded="true" signature="850:991" ph="{...}" />
+                <marker date="1522124911312" expanded="true" signature="1128:1633" ph="{...}" />
+                <marker date="1522124911312" expanded="true" signature="1240:1576" ph="{...}" />
+                <marker date="1522124911312" expanded="true" signature="1305:1562" ph="{...}" />
+                <marker date="1522124911312" expanded="true" signature="1441:1544" ph="{...}" />
+                <marker date="1522124911312" expanded="true" signature="1712:1798" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -141,12 +146,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521857496629</updated>
-      <workItem from="1521857498018" duration="4242000" />
+      <workItem from="1521857498018" duration="5692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4242000" />
+    <option name="totallyTimeSpent" value="5692000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -165,16 +170,16 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23484848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23484848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12329514" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -193,25 +198,41 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ImageMD5BinaryStream/Program.cs</url>
+          <line>55</line>
+          <properties documentPath="$PROJECT_DIR$/ImageMD5BinaryStream/Program.cs">
+            <startOffsets>
+              <startOffset value="1741" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1787" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ImageMD5BinaryStream/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        <state relative-caret-position="125">
+          <caret line="17" column="112" lean-forward="false" selection-start-line="17" selection-start-column="111" selection-end-line="17" selection-end-column="112" />
           <folding>
-            <marker date="1522123461033" expanded="true" signature="6:119" ph="..." />
-            <marker date="1522123461033" expanded="true" signature="151:1455" ph="{...}" />
-            <marker date="1522123461033" expanded="true" signature="171:1453" ph="{...}" />
-            <marker date="1522123461033" expanded="true" signature="217:888" ph="{...}" />
-            <marker date="1522123461033" expanded="true" signature="773:852" ph="{...}" />
-            <marker date="1522123461033" expanded="true" signature="940:1447" ph="{...}" />
-            <marker date="1522123461033" expanded="true" signature="1065:1402" ph="{...}" />
-            <marker date="1522123461033" expanded="true" signature="1130:1388" ph="{...}" />
-            <marker date="1522123461033" expanded="true" signature="1267:1370" ph="{...}" />
+            <marker date="1522124911312" expanded="true" signature="6:206" ph="..." />
+            <marker date="1522124911312" expanded="true" signature="238:1806" ph="{...}" />
+            <marker date="1522124911312" expanded="true" signature="265:1804" ph="{...}" />
+            <marker date="1522124911312" expanded="true" signature="329:1076" ph="{...}" />
+            <marker date="1522124911312" expanded="true" signature="850:991" ph="{...}" />
+            <marker date="1522124911312" expanded="true" signature="1128:1633" ph="{...}" />
+            <marker date="1522124911312" expanded="true" signature="1240:1576" ph="{...}" />
+            <marker date="1522124911312" expanded="true" signature="1305:1562" ph="{...}" />
+            <marker date="1522124911312" expanded="true" signature="1441:1544" ph="{...}" />
+            <marker date="1522124911312" expanded="true" signature="1712:1798" ph="{...}" />
           </folding>
         </state>
       </provider>

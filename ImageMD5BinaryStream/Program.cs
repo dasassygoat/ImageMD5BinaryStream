@@ -1,37 +1,39 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Security.Cryptography;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
+using static System.Console;
 
 namespace ImageMD5BinaryStream
 {
-    class Program
+    static class Program
     {
+        
+        
         static void Main(string[] args)
         {
-            var path = "/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/images/lock.jpeg";
-            var path2 = "/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/images/lock2.jpeg";
-            var path3 = "/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/images/lock3.jpeg";
-            
-            List<String> images = new List<string>();
-            
-            images.Add(path);
-            images.Add(path2);
-            images.Add(path3);
+            const string path = "/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/images/lock.jpeg";
+            const string path2 = "/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/images/lock2.jpeg";
+            const string path3 = "/home/bryan/Dropbox/src/ImageMD5BinaryStream/ImageMD5BinaryStream/images/lock3.jpeg";
+
+            var images = new List<string> {path, path2, path3};
+            var hashes = new List<string>();
 
             foreach (var image in images)
             {
-                Console.WriteLine(Hashify(image));
+                string hash;
+                hashes.Add(hash = Hashify(image));
+                WriteLine(hash);
             }
-            
-            
+
+            WriteLine( IsHashEqual(hashes) ? "Match Found" : "No Match");
         }
 
-        private static string Hashify(String path)
+        private static string Hashify(string path)
         {
             StringBuilder sb = new StringBuilder();
-            
 
             using (var fs = File.OpenRead(path))
             {
@@ -39,15 +41,19 @@ namespace ImageMD5BinaryStream
                 {
                     byte[] data = md5Hash.ComputeHash(fs);
 
-
                     for (int i = 0; i < data.Length; i++)
                     {
                         sb.Append(data[i].ToString("x2"));
                     }
                 }
             }
-
+            
             return sb.ToString();
+        }
+
+        private static bool IsHashEqual(IReadOnlyCollection<string> hashList)
+        {
+            return hashList.Distinct().Count() != hashList.Count;
         }
     }
 }
